@@ -1,4 +1,4 @@
-# Python Developer
+# Python/QT/Desktop Developer
 I'm a Python developer with vast experience in web development. I am skilled in grasping the big picture, problem solving, developing and implementing solutions. 
 
 ## SKills
